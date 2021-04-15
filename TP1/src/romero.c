@@ -176,6 +176,10 @@ void menuCalculadora(){
 
                         }
 
+                        flag_nroUno = 0;
+                        flag_nroDos = 0;
+                        flag_validar = 0;
+
 		            }
 		            else{
                         printf("\n PRIMERO HAGAMOS LOS CALCULOS ANTES DE MOSTRARLOS\n");
