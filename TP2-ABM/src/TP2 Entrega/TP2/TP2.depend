@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1621096605 source:c:\users\mayre\desktop\tp2 entrega\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"arrayEmployees.h"
+
+1621096921 c:\users\mayre\desktop\tp2 entrega\tp2\utn.h
+
+1621097602 c:\users\mayre\desktop\tp2 entrega\tp2\arrayemployees.h
+
+1621097070 source:c:\users\mayre\desktop\tp2 entrega\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"arrayEmployees.h"
+
+1621097662 source:c:\users\mayre\desktop\tp2 entrega\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1624920644 source:c:\users\mayre\desktop\todo progra\tp2 entrega\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"arrayEmployees.h"
+
+1621096921 c:\users\mayre\desktop\todo progra\tp2 entrega\tp2\utn.h
+
+1621097602 c:\users\mayre\desktop\todo progra\tp2 entrega\tp2\arrayemployees.h
+
+1621097662 source:c:\users\mayre\desktop\todo progra\tp2 entrega\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1624920823 source:c:\users\mayre\desktop\todo progra\tp2 entrega\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"arrayEmployees.h"
+
